@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Okay</h1>
-<h3 align="center">A badass data scientist from Turkey</h3>
+<h3 align="center">A badass backend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okaybutnotok&label=Profile%20views&color=0e75b6&style=flat" alt="okaybutnotok" /> </p>
 
